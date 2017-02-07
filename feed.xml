@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://MacquarieAtMuseums.github.io/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://MacquarieAtMuseums.github.io/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Macquarie at the Museums</title>
+		<description>Resources, News, and Updates about the Macquarie University Macquarie at the Museums events.</description>
+		<link>http://MacquarieAtMuseums.github.io/</link>
+		<atom:link href="http://MacquarieAtMuseums.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>
