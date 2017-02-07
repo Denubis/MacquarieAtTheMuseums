@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://MacquarieAtMuseums.github.io/</id>
+	<id>https://denubis.github.io/MacquarieAtMuseums//</id>
 	<title>Macquarie at the Museums</title>
-	<updated>2017-02-07T19:30:48+11:00</updated>
+	<updated>2017-02-07T19:32:48+11:00</updated>
 
 	<subtitle>Resources, News, and Updates about the Macquarie University Macquarie at the Museums events.</subtitle>
 
@@ -21,8 +21,8 @@
 		</author>
 	
 
-	<link href="http://MacquarieAtMuseums.github.io/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://MacquarieAtMuseums.github.io/" rel="alternate" type="text/html" />
+	<link href="https://denubis.github.io/MacquarieAtMuseums//atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://denubis.github.io/MacquarieAtMuseums//" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
 
