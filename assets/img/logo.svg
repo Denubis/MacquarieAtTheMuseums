@@ -66,13 +66,13 @@
      inkscape:window-height="1056"
      id="namedview3459"
      showgrid="false"
-     inkscape:zoom="1.2083333"
-     inkscape:cx="184.75062"
-     inkscape:cy="-14.936053"
+     inkscape:zoom="1.7088414"
+     inkscape:cx="294.46102"
+     inkscape:cy="-112.35046"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3457" />
+     inkscape:current-layer="layer1" />
   <image
      y="36.414604"
      x="473.02109"
@@ -90,7 +90,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.66982651px;line-height:125%;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3435)"
        id="flowRoot3607-0-5"
        xml:space="preserve"
-       transform="translate(0.9995927,3.5637156)"><flowRegion
+       transform="matrix(0.964515,0,0,0.964515,0.87527146,1.4349214)"><flowRegion
          id="flowRegion3609-9-4"><rect
            y="-6.7165089"
            x="-1.4297738"
@@ -99,14 +99,14 @@
            id="rect3611-1-4"
            style="fill:#000000" /></flowRegion><flowPara
          id="flowPara3613-9-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Volkhov;-inkscape-font-specification:Volkhov;fill:#000000">Macquarie at the Museum</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Volkhov;-inkscape-font-specification:Volkhov;fill:#000000">Macquarie at the Museums</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
      style="display:inline">
     <flowRoot
-       transform="matrix(1.1917457,0,0,1.1917457,-0.93663764,-3.3314303)"
+       transform="matrix(1.14875,0,0,1.14875,-0.90284582,-5.226964)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot3607-0"
        xml:space="preserve"><flowRegion
@@ -118,5 +118,5 @@
            id="rect3611-1"
            style="fill:#ffffff" /></flowRegion><flowPara
          id="flowPara3613-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Volkhov;-inkscape-font-specification:Volkhov;fill:#ffffff">Macquarie at the Museum</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Volkhov;-inkscape-font-specification:Volkhov;fill:#ffffff">Macquarie at the Museums</flowPara></flowRoot>  </g>
 </svg>
