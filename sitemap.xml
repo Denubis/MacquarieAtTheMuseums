@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 26 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 15 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>https://denubis.github.io/MacquarieAtMuseums//404.html</loc>
 	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
+		<lastmod>2017-02-09T13:51:08+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>https://denubis.github.io/MacquarieAtMuseums//blog/archive/</loc>
 	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
+		<lastmod>2017-02-09T13:51:08+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -39,7 +39,7 @@
 	<url>
 	<loc>https://denubis.github.io/MacquarieAtMuseums//atom.xml</loc>
 	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
+		<lastmod>2017-02-09T13:51:08+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -50,28 +50,13 @@
 	</url>
 	
 
-	
-
-	
-	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//drPryke</loc>
-	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
 	
 
 	
 	<url>
 	<loc>https://denubis.github.io/MacquarieAtMuseums//feed.xml</loc>
 	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
+		<lastmod>2017-02-09T13:51:08+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +71,7 @@
 	<url>
 	<loc>https://denubis.github.io/MacquarieAtMuseums//humans.txt</loc>
 	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
+		<lastmod>2017-02-09T13:51:08+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -101,7 +86,7 @@
 	<url>
 	<loc>https://denubis.github.io/MacquarieAtMuseums//blog/</loc>
 	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
+		<lastmod>2017-02-09T13:51:08+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,97 +101,7 @@
 	<url>
 	<loc>https://denubis.github.io/MacquarieAtMuseums//</loc>
 	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//keynote</loc>
-	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//menu</loc>
-	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//minecraft</loc>
-	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//outreach</loc>
-	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//panel</loc>
-	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//program</loc>
-	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
+		<lastmod>2017-02-09T13:51:08+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -221,7 +116,7 @@
 	<url>
 	<loc>https://denubis.github.io/MacquarieAtMuseums//robots.txt</loc>
 	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
+		<lastmod>2017-02-09T13:51:08+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -240,7 +135,7 @@
 	<url>
 	<loc>https://denubis.github.io/MacquarieAtMuseums//search/</loc>
 	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
+		<lastmod>2017-02-09T13:51:08+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -255,7 +150,7 @@
 	<url>
 	<loc>https://denubis.github.io/MacquarieAtMuseums//sitemap.xml</loc>
 	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
+		<lastmod>2017-02-09T13:51:08+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -266,66 +161,6 @@
 	</url>
 	
 
-	
-	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//soiree</loc>
-	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//teachingChristianity</loc>
-	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//teachingIslam</loc>
-	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//teachingJudaism</loc>
-	
-		<lastmod>2017-02-09T13:50:16+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
 	
 
 
