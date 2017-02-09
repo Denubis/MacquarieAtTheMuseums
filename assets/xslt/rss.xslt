@@ -134,12 +134,6 @@
 
           
           
-        
-
-              
-
-          
-          
             
             
               <li class="divider"></li>
@@ -223,21 +217,6 @@
             
             
                <li><a href="https://denubis.github.io/MacquarieAtMuseums//program">  Saturday Conference Program </a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-               <li><a href="https://denubis.github.io/MacquarieAtMuseums//menu">  Menu </a></li>
               <li class="divider"></li>
 
             
