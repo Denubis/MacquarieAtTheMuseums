@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://denubis.github.io/MacquarieAtMuseums//assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://denubis.github.io/MacquarieAtMuseums//assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="http://mqatthemuseums.com/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://mqatthemuseums.com/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Macquarie at the Museums</title>
 		<description>Resources, News, and Updates about the Macquarie University Macquarie at the Museums events.</description>
-		<link>https://denubis.github.io/MacquarieAtMuseums//</link>
-		<atom:link href="https://denubis.github.io/MacquarieAtMuseums//feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://mqatthemuseums.com/</link>
+		<atom:link href="http://mqatthemuseums.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>

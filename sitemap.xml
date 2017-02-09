@@ -5,9 +5,9 @@
 
 	
 	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//404.html</loc>
+	<loc>http://mqatthemuseums.com/404.html</loc>
 	
-		<lastmod>2017-02-09T14:10:17+11:00</lastmod>
+		<lastmod>2017-02-09T14:20:34+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//blog/archive/</loc>
+	<loc>http://mqatthemuseums.com/blog/archive/</loc>
 	
-		<lastmod>2017-02-09T14:10:17+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//atom.xml</loc>
-	
-		<lastmod>2017-02-09T14:10:17+11:00</lastmod>
+		<lastmod>2017-02-09T14:20:34+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,84 +37,9 @@
 
 	
 	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//feed.xml</loc>
+	<loc>http://mqatthemuseums.com/atom.xml</loc>
 	
-		<lastmod>2017-02-09T14:10:17+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//humans.txt</loc>
-	
-		<lastmod>2017-02-09T14:10:17+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//blog/</loc>
-	
-		<lastmod>2017-02-09T14:10:17+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//</loc>
-	
-		<lastmod>2017-02-09T14:10:17+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//program</loc>
-	
-		<lastmod>2017-02-09T14:10:17+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//robots.txt</loc>
-	
-		<lastmod>2017-02-09T14:10:17+11:00</lastmod>
+		<lastmod>2017-02-09T14:20:34+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -145,12 +53,10 @@
 	
 
 	
-
-	
 	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//search/</loc>
+	<loc>http://mqatthemuseums.com/feed.xml</loc>
 	
-		<lastmod>2017-02-09T14:10:17+11:00</lastmod>
+		<lastmod>2017-02-09T14:20:34+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -163,9 +69,9 @@
 
 	
 	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//sitemap.xml</loc>
+	<loc>http://mqatthemuseums.com/humans.txt</loc>
 	
-		<lastmod>2017-02-09T14:10:17+11:00</lastmod>
+		<lastmod>2017-02-09T14:20:34+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -178,9 +84,103 @@
 
 	
 	<url>
-	<loc>https://denubis.github.io/MacquarieAtMuseums//soiree</loc>
+	<loc>http://mqatthemuseums.com/blog/</loc>
 	
-		<lastmod>2017-02-09T14:10:17+11:00</lastmod>
+		<lastmod>2017-02-09T14:20:34+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://mqatthemuseums.com/</loc>
+	
+		<lastmod>2017-02-09T14:20:34+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://mqatthemuseums.com/program</loc>
+	
+		<lastmod>2017-02-09T14:20:34+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://mqatthemuseums.com/robots.txt</loc>
+	
+		<lastmod>2017-02-09T14:20:34+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://mqatthemuseums.com/search/</loc>
+	
+		<lastmod>2017-02-09T14:20:34+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://mqatthemuseums.com/sitemap.xml</loc>
+	
+		<lastmod>2017-02-09T14:20:34+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://mqatthemuseums.com/soiree</loc>
+	
+		<lastmod>2017-02-09T14:20:34+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
