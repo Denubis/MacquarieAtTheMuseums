@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://mqatthemuseums.com/</id>
+	<id>https://mqatthemuseums.com/</id>
 	<title>Macquarie at the Museums: MQ Ancient History and Studies of Religion Teachers Conferences 2017</title>
-	<updated>2017-03-03T10:36:57+11:00</updated>
+	<updated>2017-03-06T15:08:22+11:00</updated>
 
 	<subtitle>Resources, News, and Updates about the MQ Teachers Conference and the MQ Studies of Religion Conference.</subtitle>
 
@@ -21,8 +21,8 @@
 		</author>
 	
 
-	<link href="http://mqatthemuseums.com/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://mqatthemuseums.com/" rel="alternate" type="text/html" />
+	<link href="https://mqatthemuseums.com/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://mqatthemuseums.com/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
 

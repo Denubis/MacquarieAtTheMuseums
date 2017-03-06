@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://mqatthemuseums.com/sitemap.xml
+Sitemap: https://mqatthemuseums.com/sitemap.xml
