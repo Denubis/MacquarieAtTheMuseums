@@ -27,7 +27,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="Resources, News, and Updates about the MQ Teachers Conference and the MQ Studies of Religion Conference.">
+	<meta name="description" content="Program details for the Macquarie Ancient History Teachers Conference and the Macquarie Studies of Religion Conference 2017.">
   	<meta name="google-site-verification" content="Hw1I58CLFbgd0bVDAfmNsZFTlh9ve4ocM6TdAvBe2II">
 	<meta name="msvalidate.01" content="3D2166AACC9C331AC17CF3B47435FEA0" >
 	<link rel="author" href="https://plus.google.com/u/0/+BrianBallsunStanton">
@@ -37,7 +37,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
-	<meta property="og:description" content="Resources, News, and Updates about the MQ Teachers Conference and the MQ Studies of Religion Conference.">
+	<meta property="og:description" content="Program details for the Macquarie Ancient History Teachers Conference and the Macquarie Studies of Religion Conference 2017.">
 	<meta property="og:url" content="https://mqatthemuseums.com/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -318,7 +318,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              Resources, News, and Updates about the MQ Teachers Conference and the MQ Studies of Religion Conference.
+              Program details for the Macquarie Ancient History Teachers Conference and the Macquarie Studies of Religion Conference 2017.
               <a href="https://mqatthemuseums.com/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
