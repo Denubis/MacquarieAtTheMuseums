@@ -1,0 +1,143 @@
+open source     > 1 > 1 > /usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv
+
+ConTeXt  ver: 2016.05.17 19:20 MKIV current  fmt: 2017.2.24  int: english/english
+
+system          > 'cont-new.mkiv' loaded
+open source     > 2 > 2 > /usr/share/texmf/tex/context/base/mkiv/cont-new.mkiv
+close source    > 2 > 2 > /usr/share/texmf/tex/context/base/mkiv/cont-new.mkiv
+system          > files > jobname 'program', input './program', result 'program'
+fonts           > latin modern fonts are not preloaded
+languages       > language 'en' is active
+open source     > 2 > 3 > /home/mq20151400/MQteacherJekyll/pages/program.tex
+open source     > 3 > 4 > envArts.tex
+resolvers       > modules > 'simplefonts' is loaded
+open source     > 4 > 5 > /usr/share/texmf/tex/context/third/simplefonts/t-simplefonts.mkiv
+loading         > ConTeXt User Module / Simplefonts
+resolvers       > lua > loading file '/usr/share/texmf/tex/context/third/simplefonts/t-simplefonts.lua' succeeded
+close source    > 4 > 5 > /usr/share/texmf/tex/context/third/simplefonts/t-simplefonts.mkiv
+colors          > 'rgb' color space is supported
+colors          > 'cmyk' color space is supported
+fonts           > beware: no fonts are loaded yet, using 'lm mono' in box
+fonts           > preloading modern-designsize (math)
+fonts           > typescripts > unknown library 'modern-designsize'
+fonts           > 'fallback modern-designsize mm 12pt' is loaded
+fonts           > preloading modern-designsize (mono)
+fonts           > 'fallback modern-designsize tt 12pt' is loaded
+close source    > 3 > 5 > envArts.tex
+structure       > sectioning > title @ level 2 : 0.0 -> Macquarie at the Museums: \crlf Saturday Conference Program
+backend         > xmp > using file '/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml'
+pages           > flushing realpage 1, userpage 1
+structure       > sectioning > subsection @ level 4 : 0.0.0.1 -> Session 1
+structure       > sectioning > subsection @ level 4 : 0.0.0.2 -> Session 2
+structure       > sectioning > subsection @ level 4 : 0.0.0.3 -> Session 3
+pages           > flushing realpage 2, userpage 2
+pages           > flushing realpage 3, userpage 3
+structure       > sectioning > section @ level 3 : 0.0.1 -> Dr Gil Davis
+structure       > sectioning > subsection @ level 4 : 0.0.1.1 -> Content
+structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> Re-dating the Athenian Empire
+structure       > sectioning > section @ level 3 : 0.0.2 -> Dr Chris Forbes
+structure       > sectioning > subsection @ level 4 : 0.0.2.1 -> The Book of the Acts of the Apostles as a Source for the History of Earliest Christianity
+pages           > flushing realpage 4, userpage 4
+structure       > sectioning > section @ level 3 : 0.0.3 -> Dr Eve Guerry
+structure       > sectioning > subsection @ level 4 : 0.0.3.1 -> Content
+structure       > sectioning > subsection @ level 4 : 0.0.3.2 -> Ancient Egyptian religion, temples and festivals in the Eighteenth Dynasty.
+structure       > sectioning > section @ level 3 : 0.0.4 -> A/Prof Tom Hillard
+structure       > sectioning > section @ level 3 : 0.0.5 -> Dr Lea Beness
+pages           > flushing realpage 5, userpage 5
+structure       > sectioning > subsection @ level 4 : 0.0.5.1 -> The Late Roman Republic in 2017: Recent Developments
+structure       > sectioning > subsection @ level 4 : 0.0.5.2 -> Syllabus topics addressed
+pages           > flushing realpage 6, userpage 6
+structure       > sectioning > section @ level 3 : 0.0.6 -> Ms Katherine Jacka
+structure       > sectioning > subsection @ level 4 : 0.0.6.1 -> Persian Polymath: Ibn Sīna and the Development of Islamic Philosophy and Science
+structure       > sectioning > section @ level 3 : 0.0.7 -> Dr Kyle H. Keimer
+structure       > sectioning > subsection @ level 4 : 0.0.7.1 -> The Early Israelite Monarchy in Text and Archaeology
+pages           > flushing realpage 7, userpage 7
+structure       > sectioning > section @ level 3 : 0.0.8 -> Prof Ray Laurence
+structure       > sectioning > subsection @ level 4 : 0.0.8.1 -> Keynote: Children in Pompeii -- the invisible majority?
+structure       > sectioning > section @ level 3 : 0.0.9 -> Dr Ronika Power
+pages           > flushing realpage 8, userpage 8
+structure       > sectioning > subsection @ level 4 : 0.0.9.1 -> The Unquiet Dead: Politics and Ethics of Studying Archaeological Human Remains
+structure       > sectioning > section @ level 3 : 0.0.10 -> Dr Louise M. Pryke
+structure       > sectioning > subsection @ level 4 : 0.0.10.1 -> Content
+structure       > sectioning > subsection @ level 4 : 0.0.10.2 -> The Book of Proverbs: Wisdom, Women, Worldliness
+pages           > flushing realpage 9, userpage 9
+structure       > sectioning > section @ level 3 : 0.0.11 -> A/Prof Shawn A. Ross
+structure       > sectioning > subsection @ level 4 : 0.0.11.1 -> How Archaeology Informs History
+pages           > flushing realpage 10, userpage 10
+close source    > 2 > 5 > /home/mq20151400/MQteacherJekyll/pages/program.tex
+close source    > 1 > 5 > /usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv
+
+system          > structure > start used structure
+
+used structure  > text: program
+
+system          > structure > stop used structure
+
+
+system          > files > start used files
+
+used file       >    1: filename=cont-yes.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
+used file       >    2: filename=publ-imp-default.lua filetype=scripts foundname=/usr/share/texmf/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+used file       >    3: filename=cont-new.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
+used file       >    4: filename=lang-us.lua filetype=scripts foundname=/usr/share/texmf/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+used file       >    5: filename=/home/mq20151400/MQteacherJekyll/pages/program foundname=/home/mq20151400/MQteacherJekyll/pages/program.tex usedmethod=qualified
+used file       >    6: filename=envArts.tex foundname=envArts.tex usedmethod=direct
+used file       >    7: filename=t-simplefonts.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/third/simplefonts/t-simplefonts.mkiv usedmethod=database
+used file       >    8: filename=t-simplefonts.lua filetype=tex format=tex foundname=/usr/share/texmf/tex/context/third/simplefonts/t-simplefonts.lua usedmethod=database
+used file       >    9: filename=lmmono10-regular filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf usedmethod=database
+used file       >   10: filename=/usr/share/fonts/truetype/msttcorefonts/arialbd.ttf format=ttf foundname=/usr/share/fonts/truetype/msttcorefonts/arialbd.ttf usedmethod=direct
+used file       >   11: filename=/usr/share/fonts/truetype/msttcorefonts/georgia.ttf format=ttf foundname=/usr/share/fonts/truetype/msttcorefonts/georgia.ttf usedmethod=direct
+used file       >   12: filename=/usr/share/fonts/truetype/msttcorefonts/arial.ttf format=ttf foundname=/usr/share/fonts/truetype/msttcorefonts/arial.ttf usedmethod=direct
+used file       >   13: filename=/usr/share/fonts/truetype/msttcorefonts/georgiab.ttf format=ttf foundname=/usr/share/fonts/truetype/msttcorefonts/georgiab.ttf usedmethod=direct
+used file       >   14: filename=../images/e_10_2010_Khnumhotep_II_D01_DSC_0609(1).jpg format=tex foundname=../images/e_10_2010_Khnumhotep_II_D01_DSC_0609(1).jpg usedmethod=direct
+used file       >   15: filename=mq.png format=tex foundname=mq.png usedmethod=direct
+used file       >   16: filename=lpdf-pdx.xml filetype=tex foundname=/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
+
+system          > files > stop used files
+
+
+system          > options > start commandline options
+
+used option     > currentrun="1"
+used option     > fulljobname="./program"
+used option     > input="./program"
+used option     > kindofrun="1"
+used option     > maxnofruns="9"
+used option     > no-parse-first-line="true"
+
+system          > options > stop commandline options
+
+system          > options > start commandline files
+
+used file       >    1: ./program
+
+system          > options > stop commandline files
+
+
+mkiv lua stats  > used config file: /usr/share/texmf/web2c/texmfcnf.lua;/usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
+mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/mq20151400/.texlive2016/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
+mkiv lua stats  > resource resolver: loadtime 0.083 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 16 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 387 modules (0.262 sec), 82 tables (0.009 sec), 469 chunks (0.271 sec)
+mkiv lua stats  > traced context: maxstack: 1177, freed: 2, unreachable: 1175
+mkiv lua stats  > cleaned up reserved nodes: 48 nodes, 11 lists of 454
+mkiv lua stats  > node memory usage: 234 glue, 2 penalty, 1136 attribute, 37 glue_spec, 230 attribute_list, 2 temp
+mkiv lua stats  > node list callback tasks: 6 unique task lists, 7 instances (re)created, 1818 calls
+mkiv lua stats  > h-node processing time: 0.038 seconds including kernel
+mkiv lua stats  > attribute processing time: 0.011 seconds front- and backend
+mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
+mkiv lua stats  > jobdata time: 0.003 seconds saving, 0.004 seconds loading
+mkiv lua stats  > callbacks: 5581 direct, 1581 indirect, 7162 total
+mkiv lua stats  > randomizer: resumed with value 0.93558961662258
+mkiv lua stats  > loaded tex modules: 1 requested, all found (*-simplefonts)
+mkiv lua stats  > loaded patterns: en::2, load time: 0.000
+mkiv lua stats  > interactive elements: 0 references, 29 destinations
+mkiv lua stats  > result saved in file: program.pdf, compresslevel 3, objectcompresslevel 3
+mkiv lua stats  > loaded fonts: 5 files: arial.ttf, arialbd.ttf, georgia.ttf, georgiab.ttf, lmmono10-regular.otf
+mkiv lua stats  > font engine: otf 3.020, afm 1.512, tfm 1.000, 17 instances, 12 shared in backend, 4 common vectors, 8 common hashes, load time 1.026 seconds 
+mkiv lua stats  > graphics processing time: 0.122 seconds including tex, 11 processed images, 2 unique asked, 1 bad names
+mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
+mkiv lua stats  > luatex banner: this is luatex, version 0.95.0 (tex live 2016/debian)
+mkiv lua stats  > control sequences: 44808 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua, used memory: 76 MB (ctx: 76 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 4.142 seconds, 10 processed pages, 10 shipped pages, 2.414 pages/second
+

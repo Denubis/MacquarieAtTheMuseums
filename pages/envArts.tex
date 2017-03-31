@@ -1,0 +1,198 @@
+%Context Environment for a basic Full Block Letter with Letterhead
+\enableregime [utf]
+\mainlanguage [en]
+\setuppapersize[A4][A4]
+\setupexternalfigures[directory={.}]
+\usemodule[simplefonts]
+%\setmainfont[Roboto][expansion=quality,protrusion=quality]
+\definefontfamily [Arial] [sans] [Arial]
+
+
+
+
+
+\setupcolors[state=start]
+\definecolor[faimsblue][ c=1, m=.91, y=.03, k=.02]
+\definecolor[faimsorange][ c=0, m=.53, y=1, k=.00]
+\definecolor[mqred][c=.07, m=1, y=.82, k=.26]
+\definecolor[mqpurple][c=.32, m=1, y=.11, k=.41]
+\definecolor[mqcharcoal][c=.50, m=.30, y=.40, k=.90]
+\setuppagenumbering[alternative=doublesided, location={footer, right}]
+%\definecolor[faimsblue][h=1B3E93]
+%\definecolor[faimsorange][h=F68E1E]
+\setuplayout[location=middle,backspace=25mm, width=160mm, topspace=12mm, bottomspace=0cm, header=2.73cm, footer=1.5cm]
+
+
+
+\setupbackgrounds
+   [page]
+   [background={Letterhead,Footer,Footer2, Footer3, Footer4, Footer5, NextPgHead},state=repeat]
+\definelayer[Letterhead]
+   [x=24mm,y=12.5mm,width=\makeupwidth,height=2cm,state=start]
+
+
+\setlayerframed[Letterhead]
+   [corner={top,left},location={bottom,right},frame=off]
+   [offset=none,frame=off, x=24mm,y=10mm,width=7cm,height=1cm, , style={flushleft}]
+   {\setupalign[flushleft]\dontleavehmode{\simplefont [arialbold][size=10pt] \boldface DEPARTMENT OF ANCIENT HISTORY}
+
+    \dontleavehmode\simplefont[Georgia][size=10pt]{\setupalign[flushleft] Faculty of Arts \hfill} }
+
+\definelayer[Footer]
+   [x=25mm,y=267mm,width=6cm,height=2cm,state=start]
+
+\setlayerframed[Footer]
+   [corner={top,left},location={bottom,right},frame=off]
+   [offset=none,frame=off, width=6cm,height=1cm, style={flushleft}]
+{
+\simplefont [georgia][size=9pt]%
+\setupalign[flushleft]
+\startlines
+
+Macquarie University 
+NSW 2109 Australia
+\stoplines
+
+
+}
+
+
+\definelayer[Footer2]
+   [x=22.3mm,y=276mm,width=6cm,height=2cm,state=start]
+
+\setlayerframed[Footer2][corner={top,left},location={bottom,right},frame=off][offset=none,frame=off, width=6cm,height=1cm, style={flushleft}]{%
+\setupalign[flushleft]%
+\simplefont [arial][size=7pt]%
+ABN 90 952 801 237 \| CRICOS Provider 00002J}
+
+
+
+
+\definelayer[Footer3]
+   [x=62.5mm,y=267mm,width=6cm,height=2cm,state=start]
+
+\setlayerframed[Footer3]
+   [corner={top,left},location={bottom,right},frame=off]
+   [offset=none,frame=off, width=6cm,height=1cm, style={flushleft}]
+{
+\simplefont [georgia][size=9pt]%
+\setupalign[flushleft]%
+\startlines
+{\simplefont [georgiabold][size=9pt] T:} +61 (2) 9850 8833
+~
+\stoplines
+}
+
+
+\definelayer[Footer4]
+   [x=101mm,y=266.75mm,width=6cm,height=2cm,state=start]
+
+\setlayerframed[Footer4]
+   [corner={top,left},location={bottom,right},frame=off]
+   [offset=none,frame=off, width=6cm,height=1cm, style={flushleft}]
+{
+\simplefont [georgia][size=9pt]%
+\setupalign[flushleft]%
+\startlines
+{\simplefont [georgiabold][size=9pt] F:}  +61 (2) 9850 6594
+~
+\stoplines
+}
+
+
+
+\definelayer[Footer5]
+   [x=138mm,y=267.1mm,width=6cm,height=2cm,state=start]
+
+\setlayerframed[Footer5]
+   [corner={top,left},location={bottom,right},frame=off]
+   [offset=none,frame=off, width=6cm,height=1cm, style={flushleft}]
+{
+\simplefont [georgia][size=9pt]%
+\setupalign[flushleft]%
+\startlines
+{\simplefont [georgiabold][size=9pt] E:} gil.davis@mq.edu.au
+https://anchist.mq.edu.au
+\stoplines
+}
+
+
+\definelayer[NextPgHead]
+   [x=1.5in,y=1in,width=\makeupwidth,height=.7in,state=continue]
+
+\defineblank[FourLines][4*line,flexible]
+\defineblank[OneLine][1*line,flexible]
+
+
+\def\Regarding#1{\setgvariables[Letter][val={Re: #1}]Re: #1}
+\def\RecNameVal{}
+\def\RecName#1{
+   \def\RecNameVal{#1}
+   \setlayerframed[NextPgHead]
+      [corner={top,left},location={bottom,right},frame=off]
+      [offset=none,frame=off]
+      {\framed[frame=off,width=\makeupwidth,height=.7in,align={right,high}]%
+         {{\setupinterlinespace \RecNameVal\par
+         \setupinterlinespace\date\par
+         \setupinterlinespace\getvariable{Letter}{val}\par}}}
+   #1}
+\define[1]\Opening{\blank[FourLines]{\simplefont [georgia][size=10pt]\date}\blank[FourLines]#1:\blank[OneLine]}%
+\define[1]\Closing{#1,\blank[FourLines]}%
+\define[1]\Signature{%
+\startlines%
+#1
+\stoplines\blank[OneLine]}%
+\define[1]\Enclosures{\doifelse{#1}{1}{Enclosure}{Enclosures: #1}\blank[OneLine]}%
+
+\definestartstop[Sender][before={\startlines},after={\stoplines\blank[FourLines]}]
+\definestartstop[Recipient][before={\startlines},after={\stoplines\blank[OneLine]}]
+\definestartstop[Notes][before={\startlines},after={\stoplines\blank[OneLine]}]
+\definestartstop[Body][before={\startlines},after={\stoplines\blank[OneLine]}]
+
+
+
+
+
+
+\definefontfeature
+  [default]
+  [default]
+  [protrusion=quality,expansion=quality]
+
+
+\unprotect
+
+
+
+
+\startsetups[headertext]
+  \startframed[frame=off,align=flushright,width=455px, height=147px]
+  \externalfigure[mq.png][width=4.5cm, height=1.35cm]
+  \stopframed
+\stopsetups
+
+\startsetups[headertext2]
+  \startframed[frame=off,align=flushleft,width=455px, height=147px]
+  \externalfigure[mq.png][width=4.5cm, height=1.35cm]
+  \stopframed
+\stopsetups
+
+\setupheadertexts[\directsetup{headertext}][][][\directsetup{headertext2}]
+\protect
+%{\simplefont[Arial][expansion=quality,protrusion=quality]  CENTRE FOR APPLIED HISTORY \hfill}
+
+\definesimplefonttypeface[documentfont][Georgia][expansion=quality,protrusion=quality]
+\setupbodyfont[documentfont, 12pt]
+
+
+
+\setupinteraction[state=start,color=faimsblue,contrastcolor=faimsorange ]
+\placebookmarks[chapter,section,subsection][chapter,section]
+\setupinteractionscreen[option=bookmark]
+
+
+
+\setupinterlinespace[reset]
+\setupwhitespace[.28mm]
+\setupalign[hz,hanging]
+
