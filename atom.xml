@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="//assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="//assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>https://2017.mqatthemuseums.com//</id>
+	<id>https://2017.mqatthemuseums.com/</id>
 	<title>Macquarie at the Museums: MQ Ancient History and Studies of Religion Teachers Conferences 2017</title>
-	<updated>2018-03-05T15:28:29+11:00</updated>
+	<updated>2018-03-05T15:44:19+11:00</updated>
 
 	<subtitle>Program details for the Macquarie Ancient History Teachers Conference and the Macquarie Studies of Religion Conference 2017.</subtitle>
 
@@ -21,8 +21,8 @@
 		</author>
 	
 
-	<link href="https://2017.mqatthemuseums.com//atom.xml" rel="self" type="application/rss+xml" />
-	<link href="https://2017.mqatthemuseums.com//" rel="alternate" type="text/html" />
+	<link href="https://2017.mqatthemuseums.com/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://2017.mqatthemuseums.com/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
 
