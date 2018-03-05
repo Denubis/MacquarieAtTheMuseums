@@ -9,8 +9,8 @@
 		<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
-	<link rel="stylesheet" type="text/css" href="https://mqatthemuseums.com/assets/css/styles_feeling_responsive.css">
-	<script src="https://mqatthemuseums.com/assets/js/modernizr.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://2017.mqatthemuseums.com//assets/css/styles_feeling_responsive.css">
+	<script src="https://2017.mqatthemuseums.com//assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,7 +38,7 @@
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="Program details for the Macquarie Ancient History Teachers Conference and the Macquarie Studies of Religion Conference 2017.">
-	<meta property="og:url" content="https://mqatthemuseums.com/assets/xslt/atom.xslt">
+	<meta property="og:url" content="https://2017.mqatthemuseums.com//assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Macquarie at the Museums: MQ Ancient History and Studies of Religion Teachers Conferences 2017">
@@ -48,34 +48,34 @@
 
 	
 
-	<link type="text/plain" rel="author" href="https://mqatthemuseums.com/humans.txt">
+	<link type="text/plain" rel="author" href="https://2017.mqatthemuseums.com//humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="https://mqatthemuseums.com/assets/img/favicon.ico">
+	<link rel="icon" sizes="32x32" href="https://2017.mqatthemuseums.com/assets/img/favicon.ico">
 
-	<link rel="icon" sizes="192x192" href="https://mqatthemuseums.com/assets/img/android-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="https://2017.mqatthemuseums.com/assets/img/android-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://mqatthemuseums.com/assets/img/apple-icon-180x180.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://2017.mqatthemuseums.com/assets/img/apple-icon-180x180.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://mqatthemuseums.com/assets/img/apple-icon-152x152.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://2017.mqatthemuseums.com/assets/img/apple-icon-152x152.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://mqatthemuseums.com/assets/img/apple-icon-144x144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://2017.mqatthemuseums.com/assets/img/apple-icon-144x144.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://mqatthemuseums.com/assets/img/apple-icon-120x120.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://2017.mqatthemuseums.com/assets/img/apple-icon-120x120.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://mqatthemuseums.com/assets/img/apple-icon-114x114.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://2017.mqatthemuseums.com/assets/img/apple-icon-114x114.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://mqatthemuseums.com/assets/img/apple-icon-76x76.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://2017.mqatthemuseums.com/assets/img/apple-icon-76x76.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://mqatthemuseums.com/assets/img/apple-icon-72x72.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://2017.mqatthemuseums.com/assets/img/apple-icon-72x72.png">
 
-	<link rel="apple-touch-icon-precomposed" href="https://mqatthemuseums.com/assets/img/apple-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="https://2017.mqatthemuseums.com/assets/img/apple-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="https://mqatthemuseums.com/assets/img/ms-icon-144x144.png">
+	<meta name="msapplication-TileImage" content="https://2017.mqatthemuseums.com/assets/img/ms-icon-144x144.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -90,7 +90,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="https://mqatthemuseums.com"> Macquarie at the Museums: MQ Ancient History and Studies of Religion Teachers Conferences 2017</a></h1>
+      <h1 class="show-for-small-only"><a href="https://2017.mqatthemuseums.com/"> Macquarie at the Museums: MQ Ancient History and Studies of Religion Teachers Conferences 2017</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -137,7 +137,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="https://mqatthemuseums.com/search/">  Search </a></li>
+              <li><a href="https://2017.mqatthemuseums.com//search/">  Search </a></li>
 
             
             
@@ -156,7 +156,7 @@
 
             
             
-               <li><a href="http://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-arts/departments-and-centres/department-of-ancient-history" target="_blank">  <img class="navimage" src="images/MQ_INT_HOR_RGB_POS.png" alt=Macquarie University/> </a></li>
+               <li><a href="/http://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-arts/departments-and-centres/department-of-ancient-history" target="_blank">  <img class="navimage" src="images/MQ_INT_HOR_RGB_POS.png" alt=Macquarie University/> </a></li>
               <li class="divider"></li>
 
             
@@ -171,7 +171,7 @@
 
             
             
-               <li><a href="https://mqatthemuseums.com/">  Start </a></li>
+               <li><a href="https://2017.mqatthemuseums.com//">  Start </a></li>
               <li class="divider"></li>
 
             
@@ -186,7 +186,7 @@
 
             
             
-               <li><a href="https://www.eventbrite.com/e/macquarie-at-the-museums-tickets-31856607972" target="_blank">  Register for the conference now! </a></li>
+               <li><a href="/https://www.eventbrite.com/e/macquarie-at-the-museums-tickets-31856607972" target="_blank">  Register for the conference now! </a></li>
               <li class="divider"></li>
 
             
@@ -201,7 +201,7 @@
 
             
             
-               <li><a href="https://mqatthemuseums.com/soiree">  Friday Soirée with the Mummies </a></li>
+               <li><a href="https://2017.mqatthemuseums.com//soiree">  Friday Soirée with the Mummies </a></li>
               <li class="divider"></li>
 
             
@@ -216,7 +216,7 @@
 
             
             
-               <li><a href="https://mqatthemuseums.com/program">  Saturday Conference Program </a></li>
+               <li><a href="https://2017.mqatthemuseums.com//program">  Saturday Conference Program </a></li>
               <li class="divider"></li>
 
             
@@ -240,8 +240,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://mqatthemuseums.com" title="Macquarie at the Museums: MQ Ancient History and Studies of Religion Teachers Conferences 2017 – About the Macquarie Ancient History Teachers Conference and the Macquarie Studies of Religion Conference 2017">
-				<img src="https://mqatthemuseums.com/assets/img/logo.png" alt="Macquarie at the Museums: MQ Ancient History and Studies of Religion Teachers Conferences 2017 – About the Macquarie Ancient History Teachers Conference and the Macquarie Studies of Religion Conference 2017">
+			<a id="logo" href="https://2017.mqatthemuseums.com" title="Macquarie at the Museums: MQ Ancient History and Studies of Religion Teachers Conferences 2017 – About the Macquarie Ancient History Teachers Conference and the Macquarie Studies of Religion Conference 2017">
+				<img src="https://2017.mqatthemuseums.com//assets/img/logo.png" alt="Macquarie at the Museums: MQ Ancient History and Studies of Religion Teachers Conferences 2017 – About the Macquarie Ancient History Teachers Conference and the Macquarie Studies of Religion Conference 2017">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -319,7 +319,7 @@
 
             <p class="shadow-black">
               Program details for the Macquarie Ancient History Teachers Conference and the Macquarie Studies of Religion Conference 2017.
-              <a href="https://mqatthemuseums.com/info/">More ›</a>
+              <a href="https://2017.mqatthemuseums.com//info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -337,12 +337,12 @@
               
                 
                   <li >
-                    <a href="https://mqatthemuseums.com"  title=""></a>
+                    <a href="https://2017.mqatthemuseums.com"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="https://mqatthemuseums.com/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="https://2017.mqatthemuseums.com/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -368,7 +368,7 @@
             
               
                 <li >
-                  <a href="https://mqatthemuseums.com"  title=""></a>
+                  <a href="https://2017.mqatthemuseums.com"  title=""></a>
                 </li>
             
               
@@ -426,7 +426,7 @@
 		
 
 
-<script src="https://mqatthemuseums.com/assets/js/javascript.min.js"></script>
+<script src="https://2017.mqatthemuseums.com//assets/js/javascript.min.js"></script>
 
 
 

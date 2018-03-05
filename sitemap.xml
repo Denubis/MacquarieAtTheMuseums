@@ -5,9 +5,9 @@
 
 	
 	<url>
-	<loc>https://mqatthemuseums.com/404.html</loc>
+	<loc>https://2017.mqatthemuseums.com//404.html</loc>
 	
-		<lastmod>2017-04-03T17:58:48+10:00</lastmod>
+		<lastmod>2018-03-05T14:55:26+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>https://mqatthemuseums.com/blog/archive/</loc>
+	<loc>https://2017.mqatthemuseums.com//blog/archive/</loc>
 	
-		<lastmod>2017-04-03T17:58:48+10:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>https://mqatthemuseums.com/atom.xml</loc>
-	
-		<lastmod>2017-04-03T17:58:48+10:00</lastmod>
+		<lastmod>2018-03-05T14:55:26+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,99 +37,9 @@
 
 	
 	<url>
-	<loc>https://mqatthemuseums.com/feed.xml</loc>
+	<loc>https://2017.mqatthemuseums.com//atom.xml</loc>
 	
-		<lastmod>2017-04-03T17:58:48+10:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://mqatthemuseums.com/humans.txt</loc>
-	
-		<lastmod>2017-04-03T17:58:48+10:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://mqatthemuseums.com/blog/</loc>
-	
-		<lastmod>2017-04-03T17:58:48+10:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://mqatthemuseums.com/</loc>
-	
-		<lastmod>2017-04-03T17:58:48+10:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://mqatthemuseums.com/menu</loc>
-	
-		<lastmod>2017-04-03T17:58:48+10:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://mqatthemuseums.com/program</loc>
-	
-		<lastmod>2017-04-03T17:58:48+10:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://mqatthemuseums.com/robots.txt</loc>
-	
-		<lastmod>2017-04-03T17:58:48+10:00</lastmod>
+		<lastmod>2018-03-05T14:55:26+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -160,12 +53,10 @@
 	
 
 	
-
-	
 	<url>
-	<loc>https://mqatthemuseums.com/search/</loc>
+	<loc>https://2017.mqatthemuseums.com//feed.xml</loc>
 	
-		<lastmod>2017-04-03T17:58:48+10:00</lastmod>
+		<lastmod>2018-03-05T14:55:26+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -178,9 +69,9 @@
 
 	
 	<url>
-	<loc>https://mqatthemuseums.com/sitemap.xml</loc>
+	<loc>https://2017.mqatthemuseums.com//humans.txt</loc>
 	
-		<lastmod>2017-04-03T17:58:48+10:00</lastmod>
+		<lastmod>2018-03-05T14:55:26+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -193,9 +84,118 @@
 
 	
 	<url>
-	<loc>https://mqatthemuseums.com/soiree</loc>
+	<loc>https://2017.mqatthemuseums.com//blog/</loc>
 	
-		<lastmod>2017-04-03T17:58:48+10:00</lastmod>
+		<lastmod>2018-03-05T14:55:26+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://2017.mqatthemuseums.com//</loc>
+	
+		<lastmod>2018-03-05T14:55:26+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://2017.mqatthemuseums.com//menu</loc>
+	
+		<lastmod>2018-03-05T14:55:26+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://2017.mqatthemuseums.com//program</loc>
+	
+		<lastmod>2018-03-05T14:55:26+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://2017.mqatthemuseums.com//robots.txt</loc>
+	
+		<lastmod>2018-03-05T14:55:26+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>https://2017.mqatthemuseums.com//search/</loc>
+	
+		<lastmod>2018-03-05T14:55:26+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://2017.mqatthemuseums.com//sitemap.xml</loc>
+	
+		<lastmod>2018-03-05T14:55:26+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://2017.mqatthemuseums.com//soiree</loc>
+	
+		<lastmod>2018-03-05T14:55:26+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
